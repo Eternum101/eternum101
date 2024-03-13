@@ -1,6 +1,6 @@
 # Hi, I'm Brayden! 👋
 
-## 💫 About Me:
+## 🚀 About Me:
 I am a Full Stack Web Developer from Australia
 
 

@@ -16,4 +16,3 @@ You can find me enjoying the outdoors or wrenching on my cars when I'm not codin
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Eternum101&icon=1&color=12)](https://visitcount.itsvg.in)

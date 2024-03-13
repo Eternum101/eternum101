@@ -1,5 +1,7 @@
 # Hi, I'm Brayden! 👋
 
+[![](https://visitcount.itsvg.in/api?id=Eternum101&icon=1&color=12)](https://visitcount.itsvg.in)
+
 ## 🚀 About Me:
 I'm a passionate Full Stack Web Developer from Australia who loves building innovative, user-friendly web applications. My end goal when developing web applications is to create an engaging experience for the user.
 
